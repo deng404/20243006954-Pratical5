@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practical Five</string>
+    <string-array name="cities">
+        <item>Beijing (北京)</item>
+        <item>Tianjin (天津)</item>
+        <item>Chongqing (重庆)</item>
+        <item>Shanghai (上海)</item>
+    </string-array>
+    <string name="beijing_desc">Beijing is the capital of China. The image shows the magnificent Forbidden City.</string>
+    <string name="tianjin_desc">Tianjin is a major coastal city. The image features the Tianjin Eye.</string>
+    <string name="chongqing_desc">Chongqing is a famous mountainous city. The image shows the stunning night view.</string>
+    <string name="shanghai_desc">Shanghai is China's economic center. The image shows the Oriental Pearl Tower.</string>
+</resources>
